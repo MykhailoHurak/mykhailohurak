@@ -1,6 +1,7 @@
 ### Hi there, I'm Michael 👋
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy**
+- 🌱 I’m currently learning **JavaScript**
 
 <!--
 **mikegurak/mikegurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
