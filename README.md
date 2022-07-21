@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael 👋
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **React**
 - 📫 How to reach me: **https://www.linkedin.com/in/mikegurak/**
 
 ### My stack and tools:
