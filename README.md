@@ -2,7 +2,7 @@
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy**
 - 🌱 I’m currently learning **JavaScript** and **React**
-- 📫 How to reach me: **https://www.linkedin.com/in/mikegurak/**
+- 📫 How to reach me: **mykhailohurak@gmail.com**
 
 ### My stack and tools:
 
