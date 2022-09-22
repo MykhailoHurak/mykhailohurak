@@ -1,4 +1,4 @@
-### Hi there, I'm Michael 👋
+### Hi there, I'm Mykhailo Hurak 👋
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy**
 - 🌱 I’m currently learning **JavaScript** and **React**
