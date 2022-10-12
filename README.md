@@ -2,7 +2,7 @@
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy** since 2021
 - 🌱 I’m currently learning **JavaScript** and **React**
-- 💻 I have knowledge of JavaScript, HTML, CSS. I have been coding for over 1 year and during this time I have done 2 successful team projects and 2 individual ones
+- 💻 I have been coding for over 1 year and during this time I have done 2 successful team projects and 2 individual ones
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
 - 📫 How to reach me: **mykhailohurak@gmail.com**
 
