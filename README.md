@@ -2,6 +2,7 @@
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy**
 - 🌱 I’m currently learning **JavaScript** and **React**
+- 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
 - 📫 How to reach me: **mykhailohurak@gmail.com**
 
 ### My stack and tools:
