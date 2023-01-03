@@ -1,7 +1,7 @@
 ### Hi there, I'm Mykhailo Hurak 👋
 
 - 🔭 I’m studying **FullStack Developer in GoIT Academy** since 2021
-- 🌱 I’m currently learning **JavaScript** and **React**
+- 🌱 I’m currently learning **Node.js**
 - 💻 I have been coding for **over 1 year**
 - ✅ I have done **2 successful team projects** and **2 individual projects**
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
