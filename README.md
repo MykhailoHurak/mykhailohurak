@@ -1,7 +1,7 @@
 ### Hi there, I'm Mykhailo Hurak 👋
 
 - 🔭 I am a graduate of GoIT Academy on a **FullStack Developer** (2021-2023)
-- 🌱 I’m currently learning **React Native** and **TypeScript**
+- 🌱 I’m currently learning **React Native**
 - 💻 I have been coding **since 2021**
 - ✅ I have done **3 successful team projects** and **2 individual projects**
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
