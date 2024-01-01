@@ -1,7 +1,8 @@
 ### Hi there, I'm Mykhailo Hurak 👋
 
+- 🔭 I'm studing at Genius.Space on a **QA Tester**, **FrontEnd Developer** (2023-2024)
 - 🔭 I am a graduate of GoIT Academy on a **FullStack Developer** (2021-2023)
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **WebFlow**
 - 💻 I have been coding **since 2021**
 - ✅ I have done **3 successful team projects** and **2 individual projects**
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
@@ -27,7 +28,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <!--
-**mikegurak/mikegurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
