@@ -1,10 +1,10 @@
 ### Hi there, I'm Mykhailo Hurak 👋
 
+- 💻 I have been coding **since 2021** (more than 2 years)
 - 🔭 I'm studing at Genius.Space on a **QA Tester**, **FrontEnd Developer** (2023-2024)
 - 🔭 I am a graduate of GoIT Academy on a **FullStack Developer** (2021-2023)
 - 🌱 I’m currently learning **WebFlow**
-- 💻 I have been coding **since 2021**
-- ✅ I have done **3 successful team projects** and **2 individual projects**
+- ✅ I have done **4 successful individual projects** and **3 team projects**
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
 - 📫 How to reach me: **mykhailohurak@gmail.com**
 
