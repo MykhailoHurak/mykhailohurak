@@ -2,7 +2,7 @@
 
 - 💻 I have been coding **since 2021** (more than 2 years)
 - ✅ I have developed **10+ successful projects** (both individual and team)
-- 🔭 I'm studing at Genius.Space on a **QA Tester**, **FrontEnd Developer** (2023-2024)
+- 🔭 I'm studing at Genius.Space on a **FrontEnd Developer** (2023-2024)
 - 🔭 I am a graduate of GoIT Academy on a **FullStack Developer** (2021-2023)
 - 🌱 I’m currently learning **WebFlow**
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
