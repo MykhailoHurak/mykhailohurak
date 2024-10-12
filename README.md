@@ -33,9 +33,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Git" width="32px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="Python" width="32px" 
-src="https://www.google.com/imgres?q=python%20logo&imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20190623%2Fyp%2Fkisspng-python-computer-icons-programming-language-executa-1713885634631.webp&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-computer-icons-programming-language-executa-7247110%2F&docid=o13IELBocIGqpM&tbnid=m9UnhGoE6Nw_iM&vet=12ahUKEwjK5MLCwYmJAxUYQfEDHeN2KwMQM3oECH8QAA..i&w=900&h=900&hcb=2&ved=2ahUKEwjK5MLCwYmJAxUYQfEDHeN2KwMQM3oECH8QAA" />
-
 <!--
 
 Here are some ideas to get you started:
