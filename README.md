@@ -4,7 +4,6 @@
 - ✅ I have developed **10+ successful projects** (both individual and team)
 - 🔭 I'm studing at Genius.Space on a **Python Developer** and **FrontEnd Developer** (2023-2024)
 - 🔭 I am a graduate of GoIT Academy on a **FullStack Developer** (2021-2023)
-- 🌱 I’m currently learning **Python**
 - 🎯 My goal is **to get a job in a reputed company** where I can use my skills and knowledge to deliver good results in the long term
 - 📫 How to reach me: **mykhailohurak@gmail.com**
 
@@ -39,7 +38,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%
 <!--
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning **Python**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
