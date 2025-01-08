@@ -1,6 +1,6 @@
 ### Hi there, I'm Mykhailo Hurak 👋
 
-- 💻 I have been coding **since 2021** (more than 3 years)
+- 💻 I have been coding **since 2021**
 - ✅ I have developed **10+ successful projects**
 - 🔭 I'm studing at Genius.Space on a **Python Developer**, **FrontEnd Developer**, **AI Specialist** (2023-2025)
 - 🔭 I am a graduate of GoIT Academy on a **FullStack Developer** (HTML+CSS, JavaScript, React, Node.js) (2021-2023)
